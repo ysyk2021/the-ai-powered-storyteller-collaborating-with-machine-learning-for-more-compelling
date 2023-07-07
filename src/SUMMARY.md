@@ -1,7 +1,6 @@
 # Summary
 
 - [Chapter 1: Introduction](README.md)
-  - [Overview of the book](chapter-1-1.md)
   - [Why utilizing machine learning for storytelling is important](chapter-1-2.md)
 - [Chapter 2: Understanding AI in Storytelling](chapter-2.md)
   - [Historical overview of AI in storytelling](chapter-2-1.md)
@@ -35,6 +34,5 @@
   - [Human-machine collaboration](chapter-9-1.md)
   - [Combining human creativity with AI](chapter-9-2.md)
   - [Best practices for effective collaboration](chapter-9-3.md)
-- [Chapter 10: Conclusion](chapter-10.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
