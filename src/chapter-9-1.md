@@ -1,5 +1,4 @@
-Human-Machine Collaboration
-===========================================================================
+
 
 Collaborating with machine learning can enhance creativity and innovation in storytelling. In this chapter, we will explore the concept of human-machine collaboration and how it can be used to create more compelling and innovative stories.
 

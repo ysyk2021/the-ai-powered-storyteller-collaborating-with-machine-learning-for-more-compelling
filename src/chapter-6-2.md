@@ -1,5 +1,4 @@
-Overcoming Resistance to Change
-===========================================================================
+
 
 Resistance to change is a common challenge when introducing new technologies like AI. In this chapter, we will explore strategies for overcoming resistance to change when implementing AI in storytelling.
 

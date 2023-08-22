@@ -1,5 +1,4 @@
-Potential challenges and opportunities
-===============================================================================
+
 
 As AI continues to advance, the potential for its use in storytelling becomes increasingly clear. However, as with any new technology, there are both potential challenges and opportunities that come with its implementation.
 

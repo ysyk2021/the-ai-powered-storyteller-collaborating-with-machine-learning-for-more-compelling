@@ -1,5 +1,4 @@
-Historical Overview of AI in Storytelling
-======================================================================================
+
 
 Artificial intelligence (AI) has a long and complex history in storytelling, with roots tracing back to the early days of computing. In this chapter, we will provide a historical overview of AI in storytelling, exploring its evolution from early text-based adventure games to today's sophisticated machine learning algorithms.
 

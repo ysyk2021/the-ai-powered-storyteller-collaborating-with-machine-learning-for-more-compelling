@@ -1,5 +1,4 @@
-Chapter 9: Collaborating with Machine Learning
-==============================================
+
 
 Collaborating with machine learning can enhance creativity and innovation in storytelling. In this chapter, we will explore strategies for effective collaboration between humans and machines, including best practices for collaboration.
 

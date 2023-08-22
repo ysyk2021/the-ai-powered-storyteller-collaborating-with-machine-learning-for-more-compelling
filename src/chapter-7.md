@@ -1,5 +1,4 @@
-Chapter 7: Managing AI in Storytelling
-======================================
+
 
 As AI becomes more prevalent in the storytelling process, it is essential to manage its use effectively. This chapter explores some of the key considerations when managing AI in storytelling.
 
