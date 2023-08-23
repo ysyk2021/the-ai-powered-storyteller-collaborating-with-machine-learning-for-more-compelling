@@ -1,5 +1,4 @@
 
-
 Collaborating with machine learning can enhance creativity and innovation in storytelling. However, to ensure effective collaboration between humans and machines, it is important to follow best practices.
 
 In this chapter, we will explore best practices for effective collaboration with machine learning in storytelling.

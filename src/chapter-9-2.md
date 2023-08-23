@@ -1,5 +1,4 @@
 
-
 Collaborating with machine learning can enhance creativity and innovation in storytelling. However, it is important to strike a balance between human creativity and the capabilities of AI.
 
 In this chapter, we will explore strategies for combining human creativity with AI to create more compelling narratives.

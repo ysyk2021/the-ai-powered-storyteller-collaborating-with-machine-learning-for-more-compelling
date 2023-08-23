@@ -1,5 +1,4 @@
 
-
 As artificial intelligence (AI) becomes more integrated into storytelling, it is essential to consider the legal implications of these technologies. This chapter will explore the challenges of AI in storytelling, specifically regarding legal considerations.
 
 Intellectual Property Rights

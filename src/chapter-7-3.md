@@ -1,5 +1,4 @@
 
-
 One of the challenges of using AI in storytelling is the potential for bias. In this chapter, we will explore strategies for managing AI in storytelling and addressing potential bias.
 
 What is Bias in AI?
