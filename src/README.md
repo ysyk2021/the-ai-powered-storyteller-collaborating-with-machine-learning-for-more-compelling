@@ -8,3 +8,7 @@ The AI-Powered Storyteller is designed for storytellers, writers, and creatives 
 Overall, the goal of this book is to provide an understanding of the capabilities and limitations of AI technology in narrative creation. By exploring AI-powered techniques and strategies, storytellers can gain insights and ideas for integrating these technologies into their own creative processes, leading to more compelling and engaging narratives.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
