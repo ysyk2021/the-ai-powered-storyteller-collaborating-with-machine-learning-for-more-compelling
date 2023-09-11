@@ -1,5 +1,4 @@
-Chapter: Privacy and Security Concerns
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As the use of AI in narrative creation continues to grow, it is essential to address the privacy and security concerns associated with this technology. This chapter discusses some of the key privacy and security considerations that creators need to keep in mind when using AI for storytelling.
 

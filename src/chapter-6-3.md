@@ -1,5 +1,4 @@
-Chapter 22: Best Practices for Implementation
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Implementing AI-powered storytelling effectively requires careful planning, strategy, and consideration of various factors. This chapter outlines the best practices for successful implementation of AI in narrative creation, focusing on key areas such as preparation, integration, testing, and ongoing improvement.
 

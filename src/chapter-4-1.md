@@ -1,5 +1,4 @@
-Chapter 21: Ethical Considerations
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we delve into the realm of AI-powered storytelling and collaborate with machine learning for more compelling narrative creation, it is crucial to address the ethical considerations that arise from these advancements. This chapter explores the key ethical considerations surrounding AI-powered storytelling and provides guidelines for responsible and ethical practices.
 

@@ -1,5 +1,4 @@
-Chapter: Emerging Trends
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As the field of AI-powered storytelling continues to evolve, emerging trends offer exciting possibilities for the future of narrative creation. This chapter explores some of the most promising trends in AI-powered storytelling, providing insights into how these trends are shaping the narrative landscape and transforming the art of storytelling.
 

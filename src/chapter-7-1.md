@@ -1,5 +1,4 @@
-Chapter: Data Management
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of AI-powered storytelling, data management plays a crucial role in harnessing the power of machine learning for creating compelling narratives. This chapter delves into the significance of effective data management and explores strategies for collecting, organizing, and utilizing data to enhance the narrative creation process.
 

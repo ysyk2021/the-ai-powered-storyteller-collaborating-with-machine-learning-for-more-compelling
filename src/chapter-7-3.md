@@ -1,5 +1,4 @@
-Chapter: Addressing Potential Bias
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In AI-powered storytelling, addressing potential bias is crucial to ensure fair and accurate representation in the narratives created. This chapter explores the importance of addressing potential bias, the risks involved in perpetuating bias through AI-generated content, and strategies to mitigate bias in AI-powered storytelling.
 

@@ -1,5 +1,4 @@
-Chapter 10: Potential Challenges and Opportunities
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As nonprofit organizations delve into the realm of AI-powered storytelling and collaborate with machine learning, they encounter both challenges and opportunities. This chapter explores some of the potential hurdles and advantages that nonprofits may face when using machine learning for creating more compelling narratives.
 

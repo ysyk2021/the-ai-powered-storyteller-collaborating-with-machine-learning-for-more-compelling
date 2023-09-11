@@ -1,5 +1,4 @@
-Chapter: Combining Human Creativity with AI
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The synergy of human creativity and AI technology can unlock a new level of storytelling potential. This chapter explores how combining human creativity with AI can lead to more compelling narrative creations.
 

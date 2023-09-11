@@ -1,5 +1,4 @@
-Chapter: Human-Machine Collaboration
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of AI-powered storytelling, collaboration between humans and machine learning systems can unlock new levels of creativity and innovation. This chapter explores the various ways in which human-machine collaboration can enhance narrative creation and foster compelling storytelling.
 

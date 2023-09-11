@@ -1,5 +1,4 @@
-Chapter: Writing Style and Tone
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In storytelling, writing style and tone play a crucial role in engaging the audience and conveying the intended message. With the assistance of AI and machine learning, creators can now leverage sophisticated algorithms to develop and enhance their writing style. In this chapter, we will explore how AI can assist in refining writing style and tone, resulting in more compelling narratives.
 

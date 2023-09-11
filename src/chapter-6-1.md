@@ -1,5 +1,4 @@
-Chapter 23: Developing an AI Strategy
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Developing a well-defined AI strategy is essential for harnessing the power of machine learning in narrative creation. This chapter outlines the key steps involved in creating an effective AI strategy, encompassing areas such as goal setting, resource allocation, data management, talent acquisition, and ethical considerations.
 

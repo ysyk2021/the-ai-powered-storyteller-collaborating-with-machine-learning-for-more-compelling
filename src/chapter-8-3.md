@@ -1,5 +1,4 @@
-Chapter: Preparing for the Future
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As AI continues to advance, it is essential for storytellers to prepare for the future and embrace the potential of AI-powered narrative creation. This chapter explores key considerations for staying ahead of the curve and leveraging AI technology for compelling storytelling experiences.
 

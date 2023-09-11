@@ -1,5 +1,4 @@
-Chapter: Historical Overview of AI in Storytelling
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI has made significant advancements in recent years, revolutionizing various industries, including storytelling. In this chapter, we will explore the historical development of AI in storytelling, from its early beginnings to the present day.
 

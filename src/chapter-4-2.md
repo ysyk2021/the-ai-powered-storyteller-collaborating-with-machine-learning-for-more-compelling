@@ -1,5 +1,4 @@
-Chapter: Legal Considerations
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 When leveraging AI for narrative creation, it is crucial to understand and comply with the legal framework surrounding this technology. This chapter discusses some key legal considerations that creators should take into account to ensure they operate within the bounds of the law.
 

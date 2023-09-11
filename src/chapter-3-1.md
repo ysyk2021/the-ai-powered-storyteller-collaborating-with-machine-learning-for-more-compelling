@@ -1,5 +1,4 @@
-Chapter: Enhanced Creativity and Innovation
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of AI-powered storytelling, collaboration with machine learning can unlock new levels of creativity and innovation. This chapter explores the various ways in which AI can enhance creativity and foster innovation in narrative creation.
 

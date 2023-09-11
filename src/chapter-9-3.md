@@ -1,5 +1,4 @@
-Chapter: Best Practices for Effective Collaboration
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Collaborating with machine learning systems can revolutionize narrative creation, but it requires careful consideration and adherence to best practices. This chapter outlines key guidelines for effective collaboration between storytellers and AI, ensuring the creation of compelling narratives.
 

@@ -1,5 +1,4 @@
-Chapter: Plot Generation and Structure
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of AI-powered storytelling, plot generation and structure play a vital role in creating compelling narratives. This chapter explores the significance of plot development, the utilization of machine learning for generating storylines, and strategies for crafting engaging plot structures.
 

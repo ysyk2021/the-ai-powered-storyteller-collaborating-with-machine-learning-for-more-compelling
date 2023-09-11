@@ -1,5 +1,4 @@
-Chapter 20: Overcoming Resistance to Change
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Change can be a challenging process, especially when it comes to adopting new technologies like Artificial Intelligence (AI) for narrative creation. This chapter explores the common resistance to change and provides strategies for overcoming it in the context of collaborating with machine learning for more compelling narrative creation.
 

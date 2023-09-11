@@ -1,5 +1,4 @@
-Chapter: Types of AI in Storytelling
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI can be categorized into different types based on their functionality and use case in storytelling. In this chapter, we will explore various types of AI in storytelling and discuss how they function.
 

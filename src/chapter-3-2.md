@@ -1,5 +1,4 @@
-Chapter: Improved Efficiency and Productivity
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of AI-powered storytelling, efficiency and productivity are vital for optimizing the narrative creation process. This chapter explores various techniques and strategies to improve efficiency and increase productivity when collaborating with machine learning in narrative creation.
 

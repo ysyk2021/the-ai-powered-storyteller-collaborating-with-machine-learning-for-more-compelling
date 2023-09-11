@@ -1,5 +1,4 @@
-Chapter: Ensuring Transparency and Accountability
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of AI-powered storytelling, ensuring transparency and accountability is crucial to maintain ethical and responsible practices. This chapter explores the significance of transparency and accountability in the collaboration between AI and human creators, the challenges involved, and strategies to promote transparency and accountability.
 

@@ -1,5 +1,4 @@
-Chapter: Character Development and Dialogue
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In AI-powered storytelling, character development and dialogue play a vital role in creating compelling and engaging narratives. This chapter explores the significance of character development and dialogue, the challenges involved in AI-generated character creation, and strategies to enhance these aspects of AI-powered storytelling.
 

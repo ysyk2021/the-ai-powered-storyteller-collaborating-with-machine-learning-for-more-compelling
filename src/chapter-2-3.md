@@ -1,5 +1,4 @@
-Chapter: How AI Works in Storytelling
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI has become a powerful tool in narrative creation, enabling creators to generate compelling stories using machine learning algorithms. In this chapter, we will explore the inner workings of AI in storytelling, discussing the key components and processes involved.
 
